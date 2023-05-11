@@ -3,9 +3,29 @@
  需要本地包，请加入微信公众号:业余打发,
  "qq群已经满了，请关注公众号文章中qq频道二维码扫码进频道"*/  
  
- "spider": "./jar/fan.jar;md5;528559dc26fc8138875e8bf32f670cac", 
+ "spider": "./jar/fan.jar", 
  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
  "warningText": "接口完全免费，切勿付费购买。",
+ "lives": [
+    {
+      "name": "影视",
+      "url": "./v.txt",
+      "type": 0,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    }
+],
+ "lives": [
+    {
+      "name": "影视",
+      "url": "./v.txt",
+      "type": 0,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    }
+],
  "sites": [ 
     {
       "key":"drpy_js_豆瓣",
