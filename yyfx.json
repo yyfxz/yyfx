@@ -9,7 +9,7 @@
  "lives": [
     {
       "name": "影视",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyfx/main/v.txt",
+      "url": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
