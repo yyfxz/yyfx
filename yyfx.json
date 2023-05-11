@@ -6,20 +6,7 @@
  "spider": "./jar/fan.jar", 
  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
  "warningText": "接口完全免费，切勿付费购买。",
-  "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL20zNS5ncmVsaWdodGluZy5jbi9odG1sL3piMS50eHQ="
-                    ]
-                }
-            ]
-        }
-    ],
- "sites": [ 
+  "sites": [ 
     {
       "key":"drpy_js_豆瓣",
       "name":"豆瓣｜搜索",
